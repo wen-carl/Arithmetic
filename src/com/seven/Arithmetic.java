@@ -1,6 +1,6 @@
 package com.seven;
 
-public class Main {
+public class Arithmetic {
 
     public static void main(String[] args) {
 	// write your code here
